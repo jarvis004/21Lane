@@ -6,5 +6,5 @@
 * Testing of software on Windows.
 * Don't randomly hit your mouse. It hurts.
 
-### Mritunjay Chaudhary
+### [Mritunjay Chaudhary](https://github.com/jarvis004)
 * Pointed out a bug because of which only one user was returned from the exchange side.
